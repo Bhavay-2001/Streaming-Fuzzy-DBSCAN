@@ -11,4 +11,4 @@ The Fuzzy-Based DBSCAN algorithm is an extension of the traditional DBSCAN algor
 
 ## Datasets
 
-This project uses multiple datasets to evaluate the algorithm's performance. You can find these datasets in the 'datasets' directory. Each dataset is accompanied by a brief description or link to the source.
+This project uses multiple datasets to evaluate the algorithm's performance.
