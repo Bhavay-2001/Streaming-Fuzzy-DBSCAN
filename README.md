@@ -1,5 +1,4 @@
-# Streaming-Fuzzy-DBSCAN
-# Fuzzy-Based DBSCAN Algorithm on Different Datasets
+# Streaming based Fuzzy DBSCAN Algorithm on Different Datasets
 
 ## Overview
 
